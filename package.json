@@ -1,0 +1,19 @@
+{
+  "name": "financeiroblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gianpiero201/FinanceiroBlog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gianpiero201/FinanceiroBlog/issues"
+  },
+  "homepage": "https://github.com/gianpiero201/FinanceiroBlog#readme"
+}
